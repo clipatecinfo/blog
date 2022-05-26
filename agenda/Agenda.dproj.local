@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/01/03 15:01:36.000.289,=C:\Users\mzsistemas\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/02/08 16:17:50.000.371,=C:\Users\mzsistemas\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/02/17 15:08:59.000.190,=C:\Users\mzsistemas\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/02/17 15:24:02.000.933,=C:\Users\mzsistemas\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/02/17 15:36:58.000.263,=C:\Users\mzsistemas\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/03/16 14:47:49.000.943,=C:\Users\mzsistemas\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/03/16 14:56:03.000.490,=C:\Users\mzsistemas\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/03/17 11:04:01.000.916,=C:\Users\mzsistemas\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/03/21 17:23:34.000.842,=C:\Users\mzsistemas\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/03/22 09:22:15.000.807,=C:\Users\mzsistemas\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/03/30 11:20:01.000.842,=C:\Users\mzsistemas\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/04/05 16:37:10.000.479,=C:\Users\mzsistemas\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/04/12 13:54:25.000.645,=C:\Users\mzsistemas\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/04/12 13:57:20.000.681,=C:\Users\mzsistemas\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/04/12 14:52:01.000.761,=C:\Users\mzsistemas\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/04/22 09:19:43.000.000,=C:\Users\mzsistemas\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/05/05 17:08:46.000.171,=C:\Users\mzsistemas\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/05/17 10:15:45.000.778,=C:\Users\mzsistemas\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/05/24 10:20:36.000.861,=C:\Users\mzsistemas\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/05/24 10:22:32.000.077,C:\Desenvolvimento\Samples\aulasClipatec\agenda\src\uFrmPrincipal.pas=C:\Users\mzsistemas\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/05/24 10:22:32.000.077,C:\Desenvolvimento\Samples\aulasClipatec\agenda\src\uFrmPrincipal.dfm=C:\Users\mzsistemas\Documents\Embarcadero\Studio\Projects\Unit6.dfm</Transaction>
+    <Transaction>2022/05/24 10:22:42.000.447,C:\Desenvolvimento\Samples\aulasClipatec\agenda\Agenda.dproj=C:\Users\mzsistemas\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2022/05/24 10:24:08.000.857,=C:\Desenvolvimento\Samples\aulasClipatec\agenda\Unit1.pas</Transaction>
+    <Transaction>2022/05/24 10:24:24.000.871,C:\Desenvolvimento\Samples\aulasClipatec\agenda\src\uDmDados.pas=C:\Desenvolvimento\Samples\aulasClipatec\agenda\Unit1.pas</Transaction>
+    <Transaction>2022/05/24 10:24:24.000.871,C:\Desenvolvimento\Samples\aulasClipatec\agenda\src\uDmDados.dfm=C:\Desenvolvimento\Samples\aulasClipatec\agenda\Unit1.dfm</Transaction>
+    <Transaction>2022/05/25 09:35:35.000.061,=C:\Desenvolvimento\Samples\aulasClipatec\agenda\Unit1.pas</Transaction>
+    <Transaction>2022/05/25 09:35:41.000.956,C:\Desenvolvimento\Samples\aulasClipatec\agenda\Unit1.pas=C:\Desenvolvimento\Samples\aulasClipatec\agenda\src\uMensagens.pas</Transaction>
+    <Transaction>2022/05/25 09:36:05.000.519,C:\Desenvolvimento\Samples\aulasClipatec\agenda\src\uMensagens.pas=C:\Desenvolvimento\Samples\aulasClipatec\agenda\src\uConsts.pas</Transaction>
+  </Transactions>
+</BorlandProject>

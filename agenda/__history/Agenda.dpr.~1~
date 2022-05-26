@@ -1,0 +1,14 @@
+program Agenda;
+
+uses
+  Vcl.Forms,
+  uFrmPrincipal in 'src\uFrmPrincipal.pas' {FrmPrincipal};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TFrmPrincipal, FrmPrincipal);
+  Application.Run;
+end.
